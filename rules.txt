@@ -1,0 +1,15 @@
+How to play Super Tic Tac Toe
+
+Basics
+The board contains nine games of tic tac toe. A player wins by winning 3
+games of tic tac toe in a row, column or diagonal.
+
+Playing a turn
+The first player picks a game to play in and makes a move in that game, the game the next player
+gets to play in corresponds to the move location of the last player, i.e. if X choses to play
+in the middle square in the upper left game, then O must play in the middle game. If a game
+the opponent is supposed to play is already won or a draw, then the opppoent can chose the
+game for their move.
+
+Opponent options
+You can play locally with another person or wtih programmed AI, toggle in settings.

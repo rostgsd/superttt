@@ -1,0 +1,4 @@
+# ignored stuff
+*.o
+*.h.pch
+sttt
